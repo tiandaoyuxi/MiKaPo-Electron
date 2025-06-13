@@ -30,3 +30,7 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+计划
+对话llm
+切换模型
+引入动作
