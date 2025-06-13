@@ -30,7 +30,13 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
-计划
-对话llm
-切换模型
-引入动作
+
+## TODO
+
+- [ ] 计划
+- [ ] 对话llm
+- [ ] 切换模型
+- [ ] 引入动作
+- [ ] 动作管理
+- [ ] 麦克风权限
+
