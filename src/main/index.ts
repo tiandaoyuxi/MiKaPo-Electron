@@ -4,7 +4,8 @@ import { electronApp, optimizer, is } from '@electron-toolkit/utils'
 import icon from '../../resources/icon.png?asset'
 import { Ollama } from 'ollama'
 
-const ollama = new Ollama()
+// const ollama = new Ollama()
+const ollama = new Ollama({host: '127.0.0.1:11343'})
 
 function createWindow(): void {
   const display = screen.getPrimaryDisplay()
